@@ -62,6 +62,7 @@ Evaluation metrics: **MSE, RMSE, R², Pearson correlation, Spearman correlation*
 ### Installation
 ```bash
 pip install pytdc torch torchvision scikit-learn rdkit-pypi
+```
 
 ### Run
 ```bash
