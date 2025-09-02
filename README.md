@@ -52,6 +52,7 @@ Evaluation metrics: **MSE, RMSE, R², Pearson correlation, Spearman correlation*
 
 ## Visualization
 **Scatter plot: True pKd vs Predicted pKd**  
+<img width="604" height="782" alt="drug-target-cnn-plot" src="https://github.com/user-attachments/assets/2d915213-d0e8-4ec8-b7c6-4c62bb38c82f" />
 
 
 
